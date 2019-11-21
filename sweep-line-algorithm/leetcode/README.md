@@ -19,7 +19,7 @@ Given two (axis-aligned) rectangles, return whether they overlap.
 1. Both rectangles rec1 and rec2 are lists of 4 integers.
 2. All coordinates in rectangles will be between -10^9 and 10^9.
 
-[Python 3 Problem Solution](./rectangle_overlap.py)
+[Python 3 Problem Solution](./rectangle-overlap.py)
 
 [Practice on Leetcode](https://leetcode.com/problems/rectangle-overlap/)
 
@@ -42,7 +42,7 @@ Assume that the total area is never beyond the maximum possible value of int.
 ## Disclaimer
 > This material was used in the course SPECIAL TOPICS IN COMPUTER XIV - Programming Interviewing Practices of the Digital Metropolis Institute of the Federal University of Rio Grande do Norte.
 
-+ [Python 3 Problem Solution](./rectangle_area.py)
++ [Python 3 Problem Solution](./rectangle-area.py)
 
 + [Practice on Leetcode](https://leetcode.com/problems/rectangle-area/)
 

@@ -40,7 +40,7 @@ Print the maximum no of guests and the time at which there are maximum guests in
 ### Disclaimer
 > This material was used in the course SPECIAL TOPICS IN COMPUTER XIV - Programming Interviewing Practices of the Digital Metropolis Institute of the Federal University of Rio Grande do Norte.
 
-+ [C++ problem solution](./maximum_intervals_overlap.cpp)
++ [C++ problem solution](./maximum-intervals-overlap.cpp)
 
 + [Very cool technique used to solve problems with geometric solutions.](https://www.youtube.com/watch?v=3ph6V32oja0)
 
