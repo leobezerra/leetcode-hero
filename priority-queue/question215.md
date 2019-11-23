@@ -19,11 +19,12 @@
 > **Note:**
 > You may assume k is always valid, 1 ≤ k ≤ array's length.  
 
-Para resolver essa questão, podemos ordenar a lista em ordem descrecente e retornar o k-ésimo termo, porém para economizar espaço podemos guardar apenas os cinco maiores elementos em uma fila e retornar o menor. 
+Para resolver essa questão, podemos ordenar a lista em ordem decrescente e retornar o k-ésimo termo, porém para economizar espaço podemos guardar apenas os cinco maiores elementos em uma fila e retornar o menor.
 
 ## Implementação
 
-Como sempre iniciamos declarando a lista, depois, para cada elemento na lista adicionamos ele na fila, e, como queremos guardar apenas os `k` maiores elementos, se o tamanho da fila é maior que `k`, removemos o menor. No final, apenas retornamos o menor elemento da fila. Veja o código: 
+Como sempre iniciamos declarando a lista, depois, para cada elemento na lista adicionamos ele na fila, e, como queremos guardar apenas os `k` maiores elementos, se o tamanho da fila é maior que `k`, removemos o menor. No final, apenas retornamos o menor elemento da fila. Veja o código:
+
 ```Python 3
 pqueue = []
 for el in nums:
@@ -31,7 +32,7 @@ for el in nums:
     if(len(pqueue) > k):
         heappop(pqueue)
 return pqueue[0]
-``` 
+```
 
 + [Código completo](./question215.py)
 + [Pratique no LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
