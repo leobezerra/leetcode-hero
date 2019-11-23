@@ -7,3 +7,4 @@ Abstract data types and algorithmic techniques to solve programming interview pr
 - Algoritmos gulosos: [Medium](https://medium.com/@alvarofpp/algoritmos-gulosos-937390bb1137), [jupyter notebook](greedy/greedy-algorithms.ipynb).
 - [Segment Tree](https://dev.to/curingartur/segment-tree-3hpe)
 - [Ordenação topológica](topological_sort.ipynb)
+- [Fila de prioridade](priority-queue/README.md)
