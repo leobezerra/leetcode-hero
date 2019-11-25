@@ -8,3 +8,4 @@ Abstract data types and algorithmic techniques to solve programming interview pr
 - [Segment Tree](https://dev.to/curingartur/segment-tree-3hpe)
 - [Ordenação topológica]: [Medium](https://medium.com/@mateussfcosta/ordena%C3%A7%C3%A3o-topol%C3%B3gica-para-resolu%C3%A7%C3%A3o-de-quest%C3%B5es-de-entrevistas-de-programa%C3%A7%C3%A3o-23563fbfc80b) - [Jupyter Notebok](topological_sort.ipynb)
 - [Fila de prioridade](priority-queue/README.md)
+- Programação dinâmica: [Medium](https://medium.com/@andersonsmed/programa%C3%A7%C3%A3o-din%C3%A2mica-c27598898165), [Notebook](dynamic-programming/dynamic-programming.ipynb)
