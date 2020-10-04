@@ -5,7 +5,7 @@ https://medium.com/@wander.alves13/37e39985e302
 
 ## Questões do leet code resolvidadas
 
-1.  [Partition List](question86.md)
+86.  [Partition List](question86.md)
 
 + Dificuldade: Média 
 
